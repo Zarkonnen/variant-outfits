@@ -153,7 +153,7 @@ outfit "Light Laser Turret"
 		"firing heat" 2.5
 		"shield damage" 1.8
 		"hull damage" 2
-	description "With the ongoing threat of southern pirates, Tarazed have been hard at work on an update to the standard laser turret. The new model features improved range, accuracy, turn speed - but slightly reduced damage output."
+	description "With the ongoing threat of southern pirates, Tarazed has been hard at work on an update to the standard laser turret. The new model features improved range, accuracy, turn speed - but slightly reduced damage output."
 
 outfit "Autoloading Meteor Launcher"
 	category "Secondary Weapons"
